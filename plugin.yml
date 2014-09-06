@@ -1,0 +1,6 @@
+main: com.gurimu.edenstarmap.EdenStarMap
+name: EdenStarMap
+version: 1.0
+commands:
+    addplanet:
+    edenreload:

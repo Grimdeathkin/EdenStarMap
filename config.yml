@@ -1,0 +1,43 @@
+mapblock: COMMAND
+mapsize: 18
+planets:
+- Test
+- Mining
+- Jungle
+- New
+Jungle:
+  world: world
+  x: -11.053807054061439
+  y: 71.0
+  z: -201.94427539544398
+  item: LOG
+  invlocation: 1
+  price: 100.0
+  buyable: true
+Mining:
+  world: world
+  x: -11.053807054061439
+  y: 71.0
+  z: -201.94427539544398
+  item: STONE_PICKAXE
+  invlocation: 2
+  price: 200.0
+  buyable: true
+Test:
+  world: world
+  x: -21.094328116721222
+  y: 72.0
+  z: -196.4961730182874
+  item: STONE
+  invlocation: 4
+  price: 0
+  buyable: false
+New:
+  world: world
+  x: -7.6037154398674796
+  y: 72.0
+  z: -181.94814229696266
+  price: 100.0
+  item: LEATHER
+  invlocation: 7
+  buyable: 'true'
